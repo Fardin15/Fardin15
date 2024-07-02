@@ -1,5 +1,15 @@
 <img src="https://i.postimg.cc/vHTBHLK9/github-header-image.png" alt="Header Image"/>
-![Fardin15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fardin15&theme=dark&hide_border=true)
+<h1 align="center">Github Stats</h1>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fardin15&show_icons=true&layout=compact&theme=tokyonight" alt="DevSadit" /> </p>
+<p align="center">
+   <img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api?username=Fardin15&show_icons=true&theme=tokyonight&layout=compact" />
+</p>
+
+<br>
+<p align="center">
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fardin15&theme=tokyonight" />
+</p>
 <h1 align="center">Hello, I'm Fardin</h1>
 <h3 align="center">Hello! I'm Fardin, a first-year BSc student at Chittagong College with a passion for front-end development. My journey in the world of coding began in early 2024, and since then, I've been dedicated to honing my skills and crafting engaging user interfaces.My adventure into development started with a keen interest in how web technologies work. This curiosity led me to dive deep into HTML, CSS, and JavaScript. Now, as a fresh front-end developer, I'm excited to explore the vast landscape of web development, with a particular enthusiasm for React.</h3>
 
