@@ -1,7 +1,7 @@
 <img src="https://i.postimg.cc/vHTBHLK9/github-header-image.png" alt="Header Image"/>
 <h1 align="center">Github Stats</h1>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fardin15&show_icons=true&layout=compact&theme=tokyonight" alt="DevSadit" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fardin15&show_icons=true&layout=compact&theme=tokyonight" alt="Fardin15" /> </p>
 <p align="center">
    <img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api?username=Fardin15&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
