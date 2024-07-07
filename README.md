@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/vHTBHLK9/github-header-image.png" alt="Header Image"/>
+<img src="https://i.postimg.cc/T1MGfnGZ/Black-and-White-Gradient-Personal-Linked-In-Banner-1.png" alt="Header Image"/>
 </p>   
 <h1 align="center">Github Stats</h1>
 <p align="center">
