@@ -3,7 +3,6 @@
 </p>   
 <h1 align="center">Github Stats</h1>
 <p align="center">
-<p align="center">
   <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fardin15&theme=tokyonight" />
 </p>
 <h1 align="center">Hello, I'm Fardin</h1>
